@@ -1,0 +1,10 @@
+.card {
+    background-image: url('../../assets/imgs/img006.png');
+    background-size: 100%;
+  }
+
+p{
+    font-family: FreeMono, monospace;
+    font-style: oblique;
+    font-size: 16px;
+}

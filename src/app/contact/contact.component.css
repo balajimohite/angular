@@ -1,0 +1,17 @@
+body{
+    background-image: url('../../assets/imgs/img014.jpg');
+    background-size: 100%;
+}
+
+.card-footer{
+    width: 100%;
+}
+
+.container{
+    padding: 10px;
+}
+
+h2,
+label{
+    color: honeydew;
+}

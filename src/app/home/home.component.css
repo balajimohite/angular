@@ -1,0 +1,66 @@
+section{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+section{
+    display: block;
+}
+
+section.special, article.special {
+    text-align: center;
+}
+    #banner {
+		padding: 13em 0 11em 0;
+        background-image: url("../../assets/imgs/img005.png");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: 15% left;
+		text-align: center;
+		position: relative;
+		z-index: 9999;
+    }
+    
+hr{
+    border: 1px solid hotpink;
+}
+
+img{
+    height: 300px;
+}
+
+.card{
+    width: 100%;
+}
+
+.row{
+    background-image: url('../../assets/imgs/img010.jpg');
+    background-size: 100%;
+}
+.col-8{
+    padding: 10px;
+    color: ivory;
+}
+
+pre{
+    color: mistyrose;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.material-icons{
+    color: tomato;
+}
+h2{
+    /* color: teal; */
+    text-align: center;
+}
+
+.badge{
+    margin: 10px;
+    color: teal;
+    font-size: 22px;
+}
